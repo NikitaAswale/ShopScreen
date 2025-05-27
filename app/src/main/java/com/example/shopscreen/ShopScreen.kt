@@ -44,6 +44,7 @@ fun ShopScreen() {
     }
 }
 
+
 @Composable
 fun ShopItemCard(title: String, description: String, price: String, imageResId: Int) {
     Card(
